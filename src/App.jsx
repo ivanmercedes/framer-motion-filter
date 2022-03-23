@@ -2,7 +2,6 @@ import { useState, useEffect } from "react";
 import { motion } from "framer-motion";
 import Filter from "./Filter";
 
-import "./App.css";
 import Product from "./components/Product";
 
 function App() {
