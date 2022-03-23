@@ -2,6 +2,10 @@
 
 ![alt](./preview.jpeg)
 
+
+## Demo
+https://framer-motion-filter.surge.sh/
+
 ## Tools
 - Vite
 - Tailwind
